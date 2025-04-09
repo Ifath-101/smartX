@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # smartX
+=======
+>>>>>>> be016b06415ef54ad7bdd21d7e1597b5758fed0b
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
